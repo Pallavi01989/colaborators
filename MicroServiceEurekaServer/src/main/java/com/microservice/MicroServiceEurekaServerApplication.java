@@ -10,6 +10,8 @@ public class MicroServiceEurekaServerApplication {
 
 	public static void main(String[] args) {
 		System.out.println("This is Eureka Server");
+		
+		Syso
 		SpringApplication.run(MicroServiceEurekaServerApplication.class, args);
 	}
 
